@@ -1,0 +1,19 @@
+{
+    "redirect": [
+        {
+              
+                "status": "0",
+                "link": "https://play.google.com/store/apps/details?id=com.tegarmp3.mengharapkanmu&hl=in",
+                "appid": "pub-5158463546558012",
+                "admobappid": "ca-app-pub-5158463546558012~9785275700",
+                "bannerid": "ca-app-pub-5158463546558012/7891605722x",
+                "interid": "ca-app-pub-5158463546558012/3952360716",
+                "rewardid": "ca-app-pub-3940256099942544/5224354917",
+                 "namepack": "com.tegarmp3.mengharapkanmu",
+                "nativeid": "ca-app-pub-5158463546558012/2399605896",
+                "startapp": "201205632"
+              
+           
+        }
+    ]
+}
